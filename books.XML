@@ -1,0 +1,85 @@
+<?xml version= "1.0" encoding= "utf-8">
+
+<books>
+
+   <book>
+    <title>Hayvan Çiftlliği</title>
+    <author>George Orwell</author>
+    <publisher>Can Yayınları</publisher>
+    <isbn>9789750719387</isbn>
+    <price>11</price>
+  </book>
+
+   <book>
+    <title>Şeker Portakalı</title>
+    <author>Jose Mauro De Vasconcelos</author>
+    <publisher>Can Çocuk Yayınları</publisher>
+    <isbn>9789750738609</isbn>
+    <price>29</price>
+  </book>
+
+   <book>
+    <title>Körlük</title>
+    <author>Jose Saramago</author>
+    <publisher>Kırmızı Kedi</publisher>
+    <isbn>9786052980811</isbn>
+    <price>35</price>
+  </book>
+
+   <book>
+    <title>Sineklerin Tanrısı</title>
+    <author>William Golding</author>
+    <publisher>İş Bankası Kültür Yayınları</publisher>
+    <isbn>9789754582901</isbn>
+    <price>16</price>
+  </book>  
+
+  <book>
+    <title>Fareler ve İnsanlar</title>
+    <author>John Steinbeck</author>
+    <publisher>Sel Yayıncılık</publisher>
+    <isbn>9789755705859</isbn>
+    <price>19</price>
+  </book>
+
+   <book>
+    <title>İçimizdeki Şeytan</title>
+    <author>Sabahattin Ali</author>
+    <publisher>Yapı Kredi Yayınları</publisher>
+    <isbn>9789753638036</isbn>
+    <price>8</price>
+  </book>
+
+   <book>
+    <title>Sofie'nin Dünyası</title>
+    <author>Jostein Gaarder</author>
+    <publisher>Pan Yayıncılık</publisher>
+    <isbn>9789758434572</isbn>
+    <price>68</price>
+  </book>
+
+   <book>
+    <title>İki Şehrin Hikayesi</title>
+    <author>Charles Dickens</author>
+    <publisher>Can Yayınları</publisher>
+    <isbn>9789750738869</isbn>
+    <price>26</price>
+  </book>
+
+   <book>
+    <title>Simyacı</title>
+    <author>Paulo Coelho</author>
+    <publisher>Can Yayınları</publisher>
+    <isbn>9789750726439</isbn>
+    <price>29</price>
+  </book>
+
+   <book>
+    <title>Uçurtma Avcısı</title>
+    <author>Khaled Hosseini</author>
+    <publisher>Everest Yayınları</publisher>
+    <isbn>9789752891456</isbn>
+    <price>40</price>
+  </book>
+
+</books>
